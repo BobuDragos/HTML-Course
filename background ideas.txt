@@ -1,0 +1,27 @@
+          <!--
+          <p>
+            the desire to build my own 3D open-world experiences is what 
+            (at about 9yrs old) brought me into writing my first 
+            <code class="text-light bg-dark">debug.log("Hello World")</code>. 
+          </p>
+
+          <p>
+            i loved programming so much that (at about 17) i started teaching it.
+          </p>
+
+          <p>
+            around the same age i've started doing freelance work. 
+            i had clients, meetings and deadlines.
+          </p>
+              
+          <p>
+            nowadays my main focus had been finalizing my research paper.
+            The bachelors programme i've recently followed taught me
+            on how many computer science areas are there and how uniquely facinating
+            each of them can be.
+          </p>
+
+          <p>
+
+          </p> 
+        -->
